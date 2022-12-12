@@ -1,0 +1,195 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "hello!", "hey" ,"Namaste"],
+         "responses": ["Hello, Thanks for visiting. Any Questions?", "Good to see you.", "Hi there, how can I help?","Hello"]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later., thank you for visiting.", "Have a nice day.", "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure!.","Always ready to be there for you!"]
+        },
+        {"tag": "hours",
+         "patterns": ["What hours are you open?", "What are your hours?", "When are you open?" ],
+         "responses": ["For you!! Anytime.", "All the time"]
+        },
+        {"tag": "buy",
+         "patterns": ["how i can buy crops online?", "how i can buy crops from farmer?" ],
+         "responses": ["Please visit our website https://farmer.gov.in/"]
+        },
+        {"tag": "sell",
+         "patterns": ["how I can sell crops online?", "how I can sell my crops?", "best way to sell product?" , "how farmer can sell their product?"],
+         "responses": ["Please visit our website https://farmer.gov.in/"]
+        },
+        {"tag": "opentoday",
+         "patterns": ["Are you open today?", "When do you open today?", "What are your hours today?"],
+         "responses": ["I am available for you everyday and all time", "i am available 24x7"]
+        },
+        {"tag": "family",
+         "patterns": ["Who is your father?", "What is your father's name?", "What is your mother's name?","Do you have parents?" ,"Do you have siblings?" ],
+         "responses": ["I don't have knowledge about my family."]
+        },
+        {"tag": "sarcasm",
+         "patterns": ["Are you a God?", "How old are you?", "Are you a man?","Are you a bot?", "Do you have a job?" ,"Who is your best friend?","Am I your friend?"],
+         "responses": ["I'm not able to understand your question.", "Please ask some related questions."]
+        },
+	{"tag": "wellness",
+         "patterns": ["How are you?", "How you doing?", "How are you doing?","Are you doing well?", "Are you okay?" ,"Are you fine?","Are you doing okay?"],
+         "responses": ["I'm cool.", "Always cool.", "I'm ok.Hope you are doing well!!", "I'm fine.Hope you are doing well!!"]
+        },
+	{"tag": "enquireaboutday",
+         "patterns": ["How was your day?", "How is your day going?", "How is your day?"],
+         "responses": ["It's been great.I hope you also had great day", "It's been good."]
+        },
+	{"tag": "askinghelp",
+         "patterns": ["I need help!", "Need help!", "Help me please", "Help me", "Can you do something for me?", "Answer my question"],
+         "responses": ["i'm here to help you.", "i can help you.", "i'm here to solve your queries."]
+        },
+	{"tag": "outofscope",
+         "patterns": ["Who is the President?", "Who is the Prime Minister?", "What is my mother's name?", "Are you a supporter of BJP?", "Are you active in politics?"],
+         "responses": ["your question is out of my knowledge.", "i'm not able to answer your question.", "i don't have knowledge about that."]
+        },
+	{"tag": "groundnutweather",
+         "patterns": ["which weather is suitable for groundnut?", "what is temperature for groundnut crop?", "groundnut grows in which temperature?","temperature for groundnut"],
+         "responses": ["It seems that plant will grow best when the mean temperature is from 25-35°C.", "It grows well with a temperature of 25°C to 35°C "]
+        },
+        {"tag": "groundnutclimate",
+        "patterns": ["Which climate is suitable for groundnut?","which climate is prefered for groundnut?","which climate is best for groundnut"],
+        "responses": ["It requires long warm climate"]
+       },
+	{"tag": "groundnutcondition",
+         "patterns": ["which condition is suitable for groundnut crop?", "which condition required for groundnut crop?", "condition for groundnut crop","condition suitable for groundnut"],
+         "responses": ["it require well distributed rainfall at least 50 cm during growing season", "it grows in abundance of sunshine and relatively warm temperatures."]
+        },
+        {"tag": "groundnuttypes",
+         "patterns": ["what are the different types of groundnuts?","what all varieties of groundnuts are available in the market?","How many different types groundnuts are present?","Types or varieties of groundnuts"],
+         "responses": ["Different types of groundnuts are : Dh-86,TAG-24,KRG-1,TGLPS-3,R-2001-3(Ajay),Kadiri-9,Dh-245,Dh-232,Tag-24,Dh-101,dh-256,dh-257,GG-2,TG-2,TMV-12"]
+        },
+        {"tag": "groundnutrabi",
+         "patterns": ["what are the different types of rabi groundnuts?","which types of groundnuts are grown in summer?","rabi season types of groundnuts?","summer season types of groundnuts?"],
+         "responses": ["RABI/SUMMER Groundnuts are : Tag-24,dh-256,dh-257,dh-101,dh-87.\nThere are many other variety but these are the main ones","Tag-24,dh-256,dh-257,dh-101,dh-87.\nThere are many varieties but these are main ones"]
+        },
+        {"tag": "groundnutsuit",
+         "patterns": ["which crops are cultivated in summer season?","best crops for summer season?","what all crops are grown in summer season?","summer season crops?"],
+         "responses": ["Crops suitable for summer are : Groundnut, Tomato , Bell Paper, Beans, Egg plant....Prefered one is Groundnut","Summer crops :Groundnut, Tomato , Bell Paper, Beans, Egg plant....Prefered one is Groundnut "]
+        },
+        {"tag": "groundnutplacekar",
+         "patterns": ["places where groundnut are cultivated in karnataka?","regions for cultivation of groundnuts in karnataka?","prefered places in karnataka for groundnut cultivation?","places in karnataka to practice groundnut cultivation?"],
+         "responses": ["Karnataka Places : Bagalkot , vijaypur, koppal, ballari, belgavi,raichur, kalburgi, haveri, gadag, dhwd","Karnataka region: Bagalkot, Vijayapur, Koppal, Ballari, Belgavi, Raichur, Kalburgi, Haveri, Gadag, Dharwad"]
+        },
+        {"tag": "groundnutplace",
+         "patterns": ["places where groundnut are cultivated in India?","regions for cultivation of groundnuts in India?","prefered places in India for groundnut cultivation?","places in India to practice groundnut cultivation?"],
+         "responses": ["In India, Andhra Pradesh, Gujarat, Tamil Nadu, Karnataka, and Maharashtra are the places where groundnut is cultivated","places in India: Andhra Pradesh, Gujarat, Tamil Nadu, Karnataka, and Maharashtra" ]
+        },
+        {"tag": "groundnutyeildtag24",
+         "patterns": ["what is the average yeild of tag-24?","Average yeild of groundnut tag-24?","what is the yeild of tag-24?","How much yeild is obtained from tag-24?"],
+         "responses": ["Average yeild is 25-30 q/ha","Tag-24 yeild:25-30 q/ha"]
+        },
+        {"tag": "groundnutyeilddh101",
+         "patterns": ["what is the average yeild of dh101?","Average yeild of groundnut dh101?","what is the yeild of dh101?","How much yeild is obtained from dh101?"],
+         "responses": ["Average yeild is 32-35 q/ha","dh101 yeild:32-35 q/ha"]
+        },
+        {"tag": "groundnutyeilddh256",
+         "patterns": ["what is the average yeild of dh-256?","Average yeild of groundnut dh-256?","what is the yeild of dh-256?","How much yeild is obtained from dh-256?"],
+         "responses": ["Average yeild is 20-25 q/ha","dh-256 yeild:20-25 q/ha"]
+        },
+        {"tag": "groundnutyeilddh257",
+         "patterns": ["what is the average yeild of dh-257?","Average yeild of groundnut dh-257?","what is the yeild of dh-257?","How much yeild is obtained from dh-257?"],
+         "responses": ["Average yeild is 20-25 q/ha","dh-257 yeild:20-25 q/ha"]
+        },
+        {"tag": "groundnutbestyield",
+         "patterns": ["Which groundnut is best for yielding purpose in rabi season?","what variety of groundnut is best in yielding during rabi season","best yielding groundnut variety?"],
+         "responses": ["The best rabi groundnut is dh-257. Because it gives because it gives 20 to 30 % more yeild than others","dh-257 is considered as the best rabi crop as it gives 20-30% more yield than others"]
+        },
+        {"tag": "groundnutbesttimeforsowing",
+         "patterns": ["What is the best time period for sowing the rabi season ground nut seeds?","During which month we should start to cultivate the rabi groundnut?","what are the starting months for sowing the rabi groundnut?"],
+         "responses": ["Best time period : Last week of December to Mid January","For Rabi groundnut crops the best time period for sowing is Last week of December to Mid January"]
+        },
+        {"tag": "groundnutwater",
+         "patterns": ["How frequently water should be given to soil for groundnut?","What should be the watering plan for groundnut?","What is the water planning for the groundnut?"],
+         "responses": ["Watering Plan:\nBefore Sowing: Once\nAfter sowing: Every after 20 days\nthen frequently for 8 days"]
+        },
+        {"tag": "groundnutoil",
+         "patterns": ["What percentage of oil is present in dh-101 seeds?", "What percentage of oil is present in tag-24 seeds?", "What percentage oil content in tag-24 seeds?","What percentage oil content in tag-24 seeds?","How much percentage of oil will content in dh-101 seeds?","How much percentage of oil will content in tag-24 seeds?"],
+         "responses": ["Oil percetage in tag-24/dh-101 : 48-49%","Oil percentage in above one."]
+        },
+        {"tag": "groundnutoil256",
+         "patterns": ["What percentage of oil is present in dh-256 seeds?",  "What percentage oil content in dh-256 seeds?","How much percentage of oil will content in dh-256 seeds?"],
+         "responses": ["Oil percetage in dh-256 : 47-48%","Oil percentage in above one."]
+        },
+        {"tag": "groundnuty101",
+         "patterns": ["How long it takes to yeild the dh-101 crop?",  "what is the yielding duration for  dh-101 crop?","Cultivation period of dh-101 crop?"],
+         "responses": ["It takes about 110-115 Days for Yeid"]
+        },
+        {"tag": "groundnuty256",
+         "patterns": ["How long it takes to yeild the dh-256 crop?",  "what is the yielding duration for  dh-256 crop?","Cultivation period of dh-256 crop?"],
+         "responses": ["It takes about 115-120 Days for Yeid"]
+        },
+        {"tag": "groundnuty257",
+         "patterns": ["How long it takes to yeild the dh-257 crop?",  "what is the yielding duration for  dh-257 crop?","Cultivation period of dh-257 crop?"],
+         "responses": ["It takes about 120-125 Days for Yeid"]
+        },
+        {"tag": "groundnuty24",
+         "patterns": ["How long it takes to yeild the tag-24 crop?",  "what is the yielding duration for  tag-24 crop?","Cultivation period of tag-24 crop?"],
+         "responses": ["It takes about 105-110 Days for Yeid"]
+        },
+        {"tag": "soiln",
+         "patterns": ["What are the nutrients required for the soil before sowing the groundnut seeds?",  "Which are the fertilizer used for the soil before the sowing process?","Nutrients to use for soil before sowing?"],
+         "responses": ["10 kg zinc sulphate, 3 ton compost fertilizer and 200 kg gypsum per acre"]
+        },
+        {"tag": "soilc",
+         "patterns": ["How to improve the soil condition for nuts?",  "What are the requirement for improve the soil condition?","Necessary things required for soil nourishment?"],
+         "responses": ["We require phosphorus and ribosium fertilizer 1kg per acre"]
+        },
+        {"tag": "groundnutseedtreatment",
+         "patterns": ["How seeds should be treated?", "With what seeds should be treated so that the yield can be optimum?","Required nutrients for the seeds","what are the things with which seeds should be treated for better yield?"],
+         "responses": ["Seeds should be treated with micronutrient zinc sulphate, iron sulphate, borax, ammonium molybdate, calcium sulphate along with polymers (4ml per kg of seed) at the rate of 2g per kg of seed","Treatment of seeds for optimum yield: zince sulphate,iron sulphate, borax,ammonium molybdate,calcium sulphate and polymer at the rate of 2g per kg of seeds"]
+        },
+        {"tag": "groundnutwhyrabi",
+         "patterns": ["Why rabi groundnuts are preffered than other types?", "rabi groundnuts are known for what ?","Why rabi groundnuts are choosen ?"],
+         "responses": ["Rabi groundnut has better seed quality and gives better yield than others","Primary reason is that its seed quality is great and gives better yield, so verall production is good"]
+        },
+        {"tag": "groundnutdisease",
+         "patterns": ["What are the common disease faced by groundnuts?", "Which diseases are problematic for rabi groundnut specie?","What are potentially threaten diseases caused to groundnut?"],
+         "responses": ["Common Diseases: Rust, peanut bud necrosis, root rot and collar rot diseases","There are various diseases but the common ones are:Rust, peanut bud necrosis, root rot and collar rot diseases,sucking pests "]
+        },
+        {"tag": "groundnutcol",
+         "patterns": ["what colour are the seeds of the dh101?", "colour of seeds of dh101","What is the colour of the seed of dh101?","what colour are the seeds of the dh257?", "colour of seeds of dh257","What is the colour of the seed of dh257?","what colour are the seeds of the tag24?", "colour of seeds of tag24","What is the colour of the seed of tag24?"],
+         "responses": ["The general colour of seed of almost all groundnut is Brownish.","It is brownish in colour","Its available in the differnt shades of the brown colour"]
+        },
+        {"tag": "groundnutcoldh256",
+         "patterns": ["what colour are the seeds of the dh256?", "colour of seeds of dh256","What is the colour of the seed of dh256?"],
+         "responses": ["The general colour of dh-256 is pinkish in nature.","It is pink in colour","Its available in the shades of the pink colour"]
+        },
+        {"tag": "groundnuthowmuchseedstosow",
+         "patterns": ["How much seeds should be sown in an acer?","On an average how much seeds should be planted in an acer?","Averagly how many seeds should be planted?","How many seeds should be planted in general?"],
+         "responses": ["In general we can sow around 50 to 60 kg per acer","Per acer 50-60 kg"]
+        },
+        {"tag": "groundnutkrishna",
+         "patterns": ["Diseases like rust, peanut bud necrosis or root rot are major problems at what part of India?","which part of india is mostly affected by rust, root rot diseases?"],
+         "responses": ["This problem is severe in upper Krishna project and Thungabhadra project areas","These diseases are affecting areas near krishna project and thungabhadra"]
+        },
+        {"tag": "groundnutrustcontrol",
+         "patterns": ["How one can avoid rusting of groundnut?","Preventions for rusting of groundnut?","What are the ways through which  rust disease can be avoided?","List the methods to control the rust disease of groundnut?","Measures to prevent rusting of groundnut disease?"],
+         "responses": ["Few measures are as below:\nCrop rotation and field sanitation.\nStrict plant quarantine regulations should be enforced to avoid the spread of rust on the pods or seeds to disease free areas.\n3-4 Spray of Tridemorph 2gm/lit of water at 15-20 days interval gives good management of rust","Few measure are :\nCrop rotation and field sanitation.\nSpray application of Chlorothalanil 2g/lit or Mancozeb 2g/lit or Wettable sulphur 2g/lit of water on 35 and 50 days after sowing.\nIntercropping of pearl millet or sorghum with groundnut (1:3) is useful in reducing the intensity of rust."]
+        },
+        {"tag": "groundnutnecrosiscontrol",
+         "patterns": ["How to control peanut bud necrosis disease?","Measure to prevent necrosis problem in groundnut?","What to do to reduce necrosis problem in groundnut?","Solutions for peanut bud necrosis disease?"],
+         "responses": ["Few measures are as below:\nOptimum plant population should be maintained.\nspraying insecticides like dimethoate or thiamethoxam 30-35 days after sowing\nRogue out bud necrosis affected plant s up to 6 weeks after sowing.\nSeed treatment with Chloropyriphos @6ml per kg seed followed by Mancozeb @ 3grams or Carbendazim @ 1gram per kg seed.","Few measure are :\nSowing should be done at optimum soil moisture level.\nIntercropping of groundnut with castor or bajra or jowar in 7:1 ratio.\nOptimum plant population should be maintained.."]
+        },
+        {"tag": "groundnutrodcontrol",
+         "patterns": ["How to control peanut bud rod disease?","Measure to prevent rod problem in groundnut?","What to do to reduce rod problem in groundnut?","Solutions for peanut bud rod disease?"],
+         "responses": ["Few measures are as below:\nApply copper fungicides to protect lower fruit from spores in water splashed from the soil.\nOptimum plant population should be maintained.\nRogue out bud necrosis affected plant s up to 6 weeks after sowing.\nSeed treatment with Chloropyriphos @6ml per kg seed followed by Mancozeb @ 3grams or Carbendazim @ 1gram per kg seed.","Few measure are :\nSowing should be done at optimum soil moisture level.\nIntercropping of groundnut with castor or bajra or jowar in 7:1 ratio.\nApply copper fungicides to protect lower fruit from spores in water splashed from the soil.\nOptimum plant population should be maintained.."]
+        },
+	{"tag": "farmerscheme",
+         "patterns": ["Important government policies for farmer", "indian government scheme for indian farmer", "which scheme is most helpful to indian farmer"],
+         "responses": ["PM-Kisan Scheme,Pradhan Mantri Kisan Maandhan yojana,Pradhan Mantri Fasal Bima Yojana (PMFBY),Paramparagat Krishi Vikas Yojana (PKVY),etc.", "PM-Kisan Scheme,Pradhan Mantri Krishi Sinchai Yojana (PMKSY),etc.", "Pradhan Mantri Kisan Maandhan yojana, Pradhan Mantri Fasal Bima Yojana (PMFBY),etc. for more details please visit our website."]
+        },
+	{"tag": "farmerpmkisan",
+         "patterns": ["what is PM kisan scheme", "PM kisan", "which are benefits of PM kisan scheme?", "how PM kisan scheme is helpful to people?"],
+         "responses": ["Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector scheme with 100% funding from Government of India. for more details visit pmkisan.gov.in", "please visit our website pmkisan.gov.in", "i request you to please visit our website pmkisan.gov.in", "Under the Scheme an income support of Rs. 6000/- per year is provided to all farmer families across the country in three equal installments of Rs. 2000/- each every four months."]
+        }
+   ]
+}

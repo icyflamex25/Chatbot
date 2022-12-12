@@ -1,0 +1,209 @@
+Query,Intent
+Hello bot!,greeting
+Hi,greeting
+Hello!,greeting
+Hey there,greeting
+Hey,greeting
+Namaskar,greeting
+Namaste,greeting
+Bye,goodbye
+See you later,goodbye
+Goodbye,goodbye
+Thanks,thanks
+Thank you,thanks
+That's helpful,thanks
+Thank  you so much,thanks
+What hours are you open?,hours
+What are your hours?,hours
+When are you open?,hours
+how i can buy crops online?,buy
+how i can buy crops from farmer?,buy
+how can I buy a product?,buy
+how I can sell crops online?,sell
+how I can sell my crops?,sell
+best way to sell product?,sell
+how farmer can sell their product?,sell
+Are you open today?,opentoday
+When do you open today?,opentoday
+What are your hours today?,opentoday
+Who is your father?,family
+What is your father's name?,family
+What is your mother's name?,family
+Do you have parents?,family
+Do you have siblings?,family
+Who is you wife?,family
+What is your wife's name?,family
+Are you married?,family
+Are you a God?,sarcasm
+How old are you?,sarcasm
+Are you a man?,sarcasm
+Are you a bot?,sarcasm
+Do you have a job?,sarcasm
+Who is your best friend?,sarcasm
+Am I your friend?,sarcasm
+How are you?,wellness
+How you doing?,wellness
+How are you doing?,wellness
+Are you doing well?,wellness
+Are you okay?,wellness
+Are you fine?,wellness
+Are you doing okay?,wellness
+Is everything okay?,wellness
+Are you all right?,wellness
+You alright?,wellness
+How was your day?,enquireaboutday
+How is your day going?,enquireaboutday
+How is your day?,enquireaboutday
+I need help!,askinghelp
+Need help!,askinghelp
+Help me please,askinghelp
+Help me,askinghelp
+Help,askinghelp
+Can you do something for me?,askinghelp
+I need you to do me a favour.,askinghelp
+Can you do me a favour?,askinghelp
+Can you help me?,askinghelp
+I need your help!,askinghelp
+Please help me.,askinghelp
+I need an answer.,askinghelp
+Answer my question.,askinghelp
+Help please,askinghelp
+Who is the President?,outofscope
+Who is the Prime Minister?,outofscope
+What is my mother's name?,outofscope
+Are you a supporter of BJP?,outofscope
+Are you active in politics?,outofscope
+which is prefered  climate for groundnut?,groundnutclimate
+what is best climate for groundnut?,groundnutclimate
+Under what climate groundnut is grown?,groundnutclimate
+groundnut is grown under which climate?,groundnutclimate
+what is temperature for groundnut crop?,groundnutweather
+groundnut grows in which temperature?,groundnutweather
+temperature for groundnut,groundnutweather
+temperature require for groundnut?,groundnutweather
+which condition is suitable for groundnut crop?,groundnutcondition
+which condition required for groundnut crop?,groundnutcondition
+condition for groundnut crop,groundnutcondition
+condition suitable for groundnut,groundnutcondition
+condition for more groundnut crop production,groundnutcondition
+which land is suitable for groundnut crop,groundnutcondition
+land for groundnut crop,groundnutcondition
+land for groundnut,groundnutcondition
+which factor is suitable for groundnut crop?,groundnutcondition
+groundnut have which condition,groundnutcondition
+what are the different types of groundnuts?,groundnuttypes
+what all varieties of groundnuts are available in the market?,groundnuttypes
+How many different types groundnuts are present?,groundnuttypes
+Types or varieties of groundnuts, groundnuttypes
+what are the different types of rabi groundnuts?,groundnutrabi
+which types of groundnuts are grown in summer?,groundnutrabi
+rabi season types of groundnuts?,groundnutrabi
+summer season types of groundnuts?,groundnutrabi
+what are the different types of kharif groundnuts?,groundnutkharif
+which types of groundnuts are grown in monsoon?,groundnutkharif
+kharif season types of groundnuts?,groundnutkharif
+monsoon season types of groundnuts?,groundnutkharif
+which crops are cultivated in summer season?,groundnutsuit
+best  crops for summer season?,groundnutsuit
+what all crops are grown in summer season?,groundnutsuit
+summer season crops?,groundnutsuit
+places where groundnut are cultivated in karnataka?,groundnutplacekar
+regions for cultivation of groundnuts in karnataka?,groundnutplacekar
+prefered places in karnataka for groundnut cultivation?,groundnutplacekar
+places in karnataka to practice groundnut cultivation?,groundnutplacekar
+places where groundnut are cultivated in India?,groundnutplace
+regions for cultivation of groundnuts in India?,groundnutplace
+prefered places in India for groundnut cultivation?,groundnutplace
+places in India to practice groundnut cultivation?,groundnutplace
+what is the average yeild of tag-24?,groundnutyeildtag24
+Average yeild of groundnut tag-24?,groundnutyeildtag24
+what is the yeild of tag-24?,groundnutyeildtag24
+How much yeild is obtained from tag-24?,groundnutyeildtag24
+what is the average yeild of dh-101?,groundnutyeilddh101
+Average yeild of groundnut dh-101?,groundnutyeilddh101
+what is the yeild of dh-101?,groundnutyeilddh101
+How much yeild is obtained from dh-101?,groundnutyeilddh101
+what is the average yeild of dh-256?,groundnutyeilddh256
+Average yeild of groundnut dh-256?,groundnutyeilddh256
+what is the yeild of dh-256?,groundnutyeilddh256
+How much yeild is obtained from dh-256?,groundnutyeilddh256
+what is the average yeild of dh-257?,groundnutyeilddh257
+Average yeild of groundnut dh-257?,groundnutyeilddh257
+what is the yeild of dh-257?,groundnutyeilddh257
+How much yeild is obtained from dh-257?,groundnutyeilddh257
+Which groundnut is best for yielding purpose in rabi season?,groundnutbestyield
+what variety of groundnut is best in yielding during rabi season,groundnutbestyield
+best yielding groundnut variety?,groundnutbestyield
+What is the best time period for sowing the rabi season ground nut seeds?,groundnutbesttimeforsowing
+During which month we should start to cultivate the rabi groundnut?,groundnutbesttimeforsowing
+what are the starting months for sowing the rabi groundnut?,groundnutbesttimeforsowing
+How frequently water should be given to soil for groundnut?,groundnutwater
+What should be the watering plan for groundnut?,groundnutwater
+What is the water planning for the groundnut?,groundnutwater
+What percentage of oil is present in dh-101 seeds?,groundnutoil
+What percentage of oil is present in tag-24 seeds?,groundnutoil
+What percentage oil content in dh-101 seeds?,groundnutoil
+What percentage oil content in tag-24 seeds?,groundnutoil
+How much percentage of oil will content in dh-101 seeds?,groundnutoil
+How much percentage of oil will content in tag-24 seeds?,groundnutoil
+What percentage of oil is present in dh-256 seeds?,groundnutoil256
+What percentage oil content in dh-256 seeds?,groundnutoil256
+How much percentage of oil will content in dh-256 seeds?,groundnutoil256
+How long it takes to yeild the dh-101 crop?,groundnuty101
+what is the yielding duration for  dh-101 crop?,groundnuty101
+Cultivation period of dh-101 crop?,groundnuty101
+How long it takes to yeild the dh-256 crop?,groundnuty256
+what is the yielding duration for  dh-256 crop?,groundnuty256
+Cultivation period of dh-256 crop?,groundnuty256
+How long it takes to yeild the dh-257 crop?,groundnuty257
+what is the yielding duration for  dh-257 crop?,groundnuty257
+Cultivation period of dh-257 crop?,groundnuty257
+How long it takes to yeild the tag-24 crop?,groundnuty24
+what is the yielding duration for  tag-24 crop?,groundnuty24
+Cultivation period of tag-24 crop?,groundnuty24
+What are the nutrients required for the soil before sowing the groundnut seeds?,soiln
+Which are the fertilizer used for the soil before the sowing process?,soiln
+Nutrients to use for soil before sowing?,soiln
+How to improve the soil condition for nuts?,soilc
+What are the requirement for improve the soil condition?,soilc
+Necessary things required for soil nourishment?,solic
+How seeds should be treated?,groundnutseedtreatment
+With what seeds should be treated so that the yield can be optimum?,groundnutseedtreatment
+Required nutrients for the seeds ,groundnutseedtreatment
+what are the things with which seeds should be treated for better yield?,groundnutseedtreatment
+Why rabi groundnuts are preffered than other types?,groundnutwhyrabi
+rabi groundnuts are known for what ?,groundnutwhyrabi
+Why rabi groundnuts are choosen ?,groundnutwhyrabi
+What are the common disease faced by groundnuts?,groundnutdisease
+Which diseases are problematic for rabi groundnut specie?,groundnutdisease
+What are potentially threaten diseases caused to groundnut?,groundnutdisease
+What is the colour of the seed of dh101?,groundnutcol
+colour of seeds of dh101,groundnutcol
+what colour are the seeds of the dh101?,groundnutcol
+What is the colour of the seed of tag24?,groundnutcol
+colour of seeds of tag24,groundnutcol
+what colour are the seeds of the tag24?,groundnutcol
+What is the colour of the seed of dh257?,groundnutcol
+colour of seeds of dh257,groundnutcol
+what colour are the seeds of the dh257?,groundnutcol
+What is the colour of the seed of dh256?,groundnutcoldh256
+colour of seeds of dh256,groundnutcoldh256
+what colour are the seeds of the dh256?,groundnutcoldh256
+How much seeds should be sown in an acer?,groundnuthowmuchseedstosow
+On an average how much seeds should be planted in an acer?,groundnuthowmuchseedstosow
+Averagly how many seeds should be planted?,groundnuthowmuchseedstosow
+How many seeds should be planted in general?,groundnuthowmuchseedstosow
+"Diseases like rust, peanut bud necrosis or root rot are major problems at what part of India?",groundnutkrishna
+"which part of india is mostly affected by rust, root rot diseases?",groundnutkrishna
+How one can avoid rusting of groundnut?,groundnutrustcontrol
+Preventions for rusting of groundnut?,groundnutrustcontrol
+What are the ways through which  rust disease can be avoided?,groundnutrustcontrol
+List the methods to control the rust disease of groundnut?,groundnutrustcontrol
+Measures to prevent rusting of groundnut disease?,groundnutrustcontrol
+How to control peanut bud necrosis disease?,groundnutnecrosiscontrol
+Measure to prevent necrosis problem in groundnut?,groundnutnecrosiscontrol
+What to do to reduce necrosis problem in groundnut?,groundnutnecrosiscontrol
+Solutions for peanut bud necrosis disease?,groundnutnecrosiscontrol
+How to control peanut rod disease?,groundnutrodcontrol
+Measure to prevent rod problem in groundnut?,groundnutrodcontrol
+What to do to reduce rod problem in groundnut?,groundnutrodcontrol
