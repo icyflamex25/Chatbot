@@ -69,7 +69,7 @@
         },
         {"tag": "groundnutrabi",
          "patterns": ["what are the different types of rabi groundnuts?","which types of groundnuts are grown in summer?","rabi season types of groundnuts?","summer season types of groundnuts?"],
-         "responses": ["RABI/SUMMER Groundnuts are : Tag-24,dh-256,dh-257,dh-101,dh-87.\nThere are many other variety but these are the main ones","Tag-24,dh-256,dh-257,dh-101,dh-87.\nThere are many varieties but these are main ones"]
+         "responses": ["RABI/SUMMER Groundnuts are : Tag-24,dh-256,dh-257,dh-101,dh-87.There are many other variety but these are the main ones","Tag-24,dh-256,dh-257,dh-101,dh-87.\nThere are many varieties but these are main ones"]
         },
         {"tag": "groundnutsuit",
          "patterns": ["which crops are cultivated in summer season?","best crops for summer season?","what all crops are grown in summer season?","summer season crops?"],
@@ -83,25 +83,25 @@
          "patterns": ["places where groundnut are cultivated in India?","regions for cultivation of groundnuts in India?","prefered places in India for groundnut cultivation?","places in India to practice groundnut cultivation?"],
          "responses": ["In India, Andhra Pradesh, Gujarat, Tamil Nadu, Karnataka, and Maharashtra are the places where groundnut is cultivated","places in India: Andhra Pradesh, Gujarat, Tamil Nadu, Karnataka, and Maharashtra" ]
         },
-        {"tag": "groundnutyeildtag24",
-         "patterns": ["what is the average yeild of tag-24?","Average yeild of groundnut tag-24?","what is the yeild of tag-24?","How much yeild is obtained from tag-24?"],
-         "responses": ["Average yeild is 25-30 q/ha","Tag-24 yeild:25-30 q/ha"]
+        {"tag": "groundnutyieldtag24",
+         "patterns": ["what is the average yield of tag-24?","Average yield of groundnut tag-24?","what is the yield of tag-24?","How much yield is obtained from tag-24?"],
+         "responses": ["Average yield is 25-30 q/ha","Tag-24 yield:25-30 q/ha"]
         },
-        {"tag": "groundnutyeilddh101",
-         "patterns": ["what is the average yeild of dh101?","Average yeild of groundnut dh101?","what is the yeild of dh101?","How much yeild is obtained from dh101?"],
-         "responses": ["Average yeild is 32-35 q/ha","dh101 yeild:32-35 q/ha"]
+        {"tag": "groundnutyielddh101",
+         "patterns": ["what is the average yield of dh101?","Average yield of groundnut dh101?","what is the yield of dh101?","How much yield is obtained from dh101?"],
+         "responses": ["Average yield is 32-35 q/ha","dh101 yield:32-35 q/ha"]
         },
-        {"tag": "groundnutyeilddh256",
-         "patterns": ["what is the average yeild of dh-256?","Average yeild of groundnut dh-256?","what is the yeild of dh-256?","How much yeild is obtained from dh-256?"],
-         "responses": ["Average yeild is 20-25 q/ha","dh-256 yeild:20-25 q/ha"]
+        {"tag": "groundnutyielddh256",
+         "patterns": ["what is the average yield of dh-256?","Average yield of groundnut dh-256?","what is the yield of dh-256?","How much yield is obtained from dh-256?"],
+         "responses": ["Average yield is 20-25 q/ha","dh-256 yield:20-25 q/ha"]
         },
-        {"tag": "groundnutyeilddh257",
-         "patterns": ["what is the average yeild of dh-257?","Average yeild of groundnut dh-257?","what is the yeild of dh-257?","How much yeild is obtained from dh-257?"],
-         "responses": ["Average yeild is 20-25 q/ha","dh-257 yeild:20-25 q/ha"]
+        {"tag": "groundnutyielddh257",
+         "patterns": ["what is the average yield of dh-257?","Average yield of groundnut dh-257?","what is the yield of dh-257?","How much yield is obtained from dh-257?"],
+         "responses": ["Average yield is 20-25 q/ha","dh-257 yield:20-25 q/ha"]
         },
         {"tag": "groundnutbestyield",
          "patterns": ["Which groundnut is best for yielding purpose in rabi season?","what variety of groundnut is best in yielding during rabi season","best yielding groundnut variety?"],
-         "responses": ["The best rabi groundnut is dh-257. Because it gives because it gives 20 to 30 % more yeild than others","dh-257 is considered as the best rabi crop as it gives 20-30% more yield than others"]
+         "responses": ["The best rabi groundnut is dh-257. Because it gives because it gives 20 to 30 % more yield than others","dh-257 is considered as the best rabi crop as it gives 20-30% more yield than others"]
         },
         {"tag": "groundnutbesttimeforsowing",
          "patterns": ["What is the best time period for sowing the rabi season ground nut seeds?","During which month we should start to cultivate the rabi groundnut?","what are the starting months for sowing the rabi groundnut?"],
@@ -109,31 +109,31 @@
         },
         {"tag": "groundnutwater",
          "patterns": ["How frequently water should be given to soil for groundnut?","What should be the watering plan for groundnut?","What is the water planning for the groundnut?"],
-         "responses": ["Watering Plan:\nBefore Sowing: Once\nAfter sowing: Every after 20 days\nthen frequently for 8 days"]
+         "responses": ["Watering Plan:\nBefore Sowing: Once\nAfter sowing: After every 20 days\nthen frequently for 8 days"]
         },
         {"tag": "groundnutoil",
          "patterns": ["What percentage of oil is present in dh-101 seeds?", "What percentage of oil is present in tag-24 seeds?", "What percentage oil content in tag-24 seeds?","What percentage oil content in tag-24 seeds?","How much percentage of oil will content in dh-101 seeds?","How much percentage of oil will content in tag-24 seeds?"],
-         "responses": ["Oil percetage in tag-24/dh-101 : 48-49%","Oil percentage in above one."]
+         "responses": ["Oil percetage in tag-24/dh-101 : 48-49%","Oil percentage for the rewuired seeds are 48-49%."]
         },
         {"tag": "groundnutoil256",
          "patterns": ["What percentage of oil is present in dh-256 seeds?",  "What percentage oil content in dh-256 seeds?","How much percentage of oil will content in dh-256 seeds?"],
-         "responses": ["Oil percetage in dh-256 : 47-48%","Oil percentage in above one."]
+         "responses": ["Oil percetage in dh-256 : 47-48%"]
         },
         {"tag": "groundnuty101",
-         "patterns": ["How long it takes to yeild the dh-101 crop?",  "what is the yielding duration for  dh-101 crop?","Cultivation period of dh-101 crop?"],
-         "responses": ["It takes about 110-115 Days for Yeid"]
+         "patterns": ["How long it takes to yield the dh-101 crop?",  "what is the yielding duration for  dh-101 crop?","Cultivation period of dh-101 crop?"],
+         "responses": ["It takes about 110-115 Days for Yieid"]
         },
         {"tag": "groundnuty256",
-         "patterns": ["How long it takes to yeild the dh-256 crop?",  "what is the yielding duration for  dh-256 crop?","Cultivation period of dh-256 crop?"],
-         "responses": ["It takes about 115-120 Days for Yeid"]
+         "patterns": ["How long it takes to yield the dh-256 crop?",  "what is the yielding duration for  dh-256 crop?","Cultivation period of dh-256 crop?"],
+         "responses": ["It takes about 115-120 Days for Yieid"]
         },
         {"tag": "groundnuty257",
-         "patterns": ["How long it takes to yeild the dh-257 crop?",  "what is the yielding duration for  dh-257 crop?","Cultivation period of dh-257 crop?"],
-         "responses": ["It takes about 120-125 Days for Yeid"]
+         "patterns": ["How long it takes to yield the dh-257 crop?",  "what is the yielding duration for  dh-257 crop?","Cultivation period of dh-257 crop?"],
+         "responses": ["It takes about 120-125 Days for Yieid"]
         },
         {"tag": "groundnuty24",
-         "patterns": ["How long it takes to yeild the tag-24 crop?",  "what is the yielding duration for  tag-24 crop?","Cultivation period of tag-24 crop?"],
-         "responses": ["It takes about 105-110 Days for Yeid"]
+         "patterns": ["How long it takes to yield the tag-24 crop?",  "what is the yielding duration for  tag-24 crop?","Cultivation period of tag-24 crop?"],
+         "responses": ["It takes about 105-110 Days for Yieid"]
         },
         {"tag": "soiln",
          "patterns": ["What are the nutrients required for the soil before sowing the groundnut seeds?",  "Which are the fertilizer used for the soil before the sowing process?","Nutrients to use for soil before sowing?"],
@@ -190,6 +190,25 @@
 	{"tag": "farmerpmkisan",
          "patterns": ["what is PM kisan scheme", "PM kisan", "which are benefits of PM kisan scheme?", "how PM kisan scheme is helpful to people?"],
          "responses": ["Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector scheme with 100% funding from Government of India. for more details visit pmkisan.gov.in", "please visit our website pmkisan.gov.in", "i request you to please visit our website pmkisan.gov.in", "Under the Scheme an income support of Rs. 6000/- per year is provided to all farmer families across the country in three equal installments of Rs. 2000/- each every four months."]
+        },
+        {"tag": "Fertilizer",
+         "patterns": ["What kind of fertilizers are required for growing groundnut?", "What is the optimum quantity of fertilizers for better groundnut yield?", "Are fertilizers needed for growing ground nut?"],
+         "responses": ["Fertilizers for groundnut are following Ammonium sulphate,Calcium ammonium nitrate,Potassium sulphate,Gypsum,Potassium chloride."]
+        },
+        {"tag": "Diseases",
+         "patterns": ["What are the common diseases in Groundnut crop?", "How to prevent groundnut crop from diseases?", "What are the common symptoms of groundnut disease?","What can we do to prevent ground nut diseases?","How to recover from Groundnut diseases?"],
+         "responses": ["Common diseases for groundnut are Early leaf spot,Late leaf spot,Rust disease,Stem rot,Alternaria leaf disease,Anthracnose disease."]
+        },
+        {"tag": "Pesticides",
+         "patterns": ["How to use pesticides for groundut farming?", "Are pesticides useful in curing groundnut crop diseases?", "What pesticides are used in groundnut famrming?","What is the optimum quantity of pesticides in groundnut cultivation?","How to chooses the best pesticides for groundnut farming?"],
+         "responses": ["Common pesticides used for groundnut are Targa Super  (Quizalofop Ethyl 5%),Vitavax Power  (Carboxin 37.5% + Thiram 37.5%),Lustre,Zerox (Propiconazole 25%),Sixer (Mancozeb 63% + Carbendazim 12%),Media (Imidacloprid 17.8%)."]
+        },
+        {"tag": "Cultivation",
+         "patterns": ["What are the steps to grow groundnut crop?", "How to grow groundnut crop in 3 months?", "What is the procedure of growing groundnut crop?"," How to grow Groundnut crop?","What are the methods of growing groundnut crop?","What is the process of Groundnut cultivation?","What is the approach of Groundnut cultivation?","How to plan Groundnut crop cultivation?","What are the steps to grow groundnut crop?"],
+         "responses": [""]
         }
+        
+
+
    ]
 }
